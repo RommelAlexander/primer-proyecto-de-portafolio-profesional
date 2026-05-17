@@ -1,0 +1,19 @@
+[theme]
+# Color principal para botones, sliders y pestañas activas (Azul Corporativo CMPC)
+primaryColor = "#004B87"
+
+# Color de fondo de la aplicación principal (Gris claro ultra limpio)
+backgroundColor = "#F8F9FA"
+
+# Color de fondo de los contenedores, tarjetas y barra lateral (Blanco/Gris suave)
+secondaryBackgroundColor = "#EDEFF2"
+
+# Color del texto principal para máxima legibilidad
+textColor = "#212529"
+
+# Fuente tipográfica profesional predeterminada
+font = "sans serif"
+
+[theme.dark]
+# Desactivar o mantener una estética consistente si el usuario cambia a modo oscuro
+primaryColor = "#004B87"
